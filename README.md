@@ -6,7 +6,6 @@ The AMR Wiki Link Tool is a Python-based tool designed to annotate **Abstract Me
 
 - **Automated Wikipedia Tagging**: Automatically annotates AMR graphs with Wikipedia tags using the **MediaWiki API**.
 - **Wikidata Entity Matching**: Validates entities through **Wikidata**, providing a robust and contextually accurate linking process.
-- **Epistemic Entity Disambiguation**: Uses the structured properties of entities in **Wikidata** to resolve ambiguity and improve the accuracy of entity linking.
 - **Multithreading for Efficiency**: Uses multithreading to improve processing speed for large AMR datasets.
 
 ## How to Use the AMR Wiki Tool
