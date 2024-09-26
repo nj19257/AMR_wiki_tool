@@ -17,9 +17,9 @@ The AMR Wiki Link Tool is a Python-based tool designed to annotate **Abstract Me
 - Required packages: `mediawikiapi`, `wikidata.client`, `penman`, `tqdm`, `pandas`, `concurrent.futures`, `argparse`
 
 Install all necessary packages:
-\`\`\`bash
+```
 pip install mediawikiapi wikidata pandas tqdm penman
-\`\`\`
+```
 
 ### Adding Wiki Tags to Your AMR File
 
